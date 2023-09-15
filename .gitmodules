@@ -1,0 +1,3 @@
+[submodule "LzyRingbuffer"]
+	path = LzyRingbuffer
+	url = https://github.com/etaaquarids/LzyRingbuffer.git
